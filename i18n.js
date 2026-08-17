@@ -23,7 +23,7 @@ const i18nData = {
     },
     error: { load: '加载失败' },
     loading: { alt: '雨州Minecraft加载中' },
-    banner: { deprecation: 'yuzhou-mc.cn 将于 2027 年 7 月到期，请使用 yzmc.top 访问！', link: '-> 点此跳转 <-' },
+    banner: { deprecation: 'yuzhou-mc.cn 将于 2027 年 7 月废弃，此网站内容已不再更新，请使用 yzmc.top 访问！', link: '-> 点此跳转 <-' },
     lang: {
       auto: '跟随系统', zh: '中文', en: '英语', ja: '日语', ko: '韩语'
     },
@@ -90,7 +90,7 @@ const i18nData = {
     },
     error: { load: 'Failed to Load' },
     loading: { alt: 'YuZhou Minecraft Loading' },
-    banner: { deprecation: 'yuzhou-mc.cn will expire in July 2027, please use yzmc.top!', link: '-> Click to Jump <-' },
+    banner: { deprecation: 'yuzhou-mc.cn will be deprecated in July 2027, this website's content is no longer updated, please use yzmc.top!', link: '-> Click to Jump <-' },
     lang: {
       auto: 'Follow System', zh: 'Chinese', en: 'English', ja: 'Japanese', ko: 'Korean'
     },
@@ -157,7 +157,7 @@ const i18nData = {
     },
     error: { load: '読み込みに失敗しました' },
     loading: { alt: '雨州Minecraft読み込み中' },
-    banner: { deprecation: 'yuzhou-mc.cn は 2027 年 7 月に失効します。yzmc.top をご利用ください！', link: '-> ここをクリック <-' },
+    banner: { deprecation: 'yuzhou-mc.cn は 2027 年 7 月に廃止されます。このサイトの内容は更新されなくなりました。yzmc.top をご利用ください！', link: '-> ここをクリック <-' },
     lang: {
       auto: 'システムに従う', zh: '中国語', en: '英語', ja: '日本語', ko: '韓国語'
     },
@@ -224,7 +224,7 @@ const i18nData = {
     },
     error: { load: '로딩 실패' },
     loading: { alt: 'YuZhou Minecraft 로딩 중' },
-    banner: { deprecation: 'yuzhou-mc.cn은 2027년 7월에 만료됩니다. yzmc.top을 사용해 주세요!', link: '-> 클릭하여 이동 <-' },
+    banner: { deprecation: 'yuzhou-mc.cn은 2027년 7월에 폐기됩니다. 이 웹사이트의 콘텐츠는 더 이상 업데이트되지 않습니다. yzmc.top을 사용해 주세요!', link: '-> 클릭하여 이동 <-' },
     lang: {
       auto: '시스템 따르기', zh: '중국어', en: '영어', ja: '일본어', ko: '한국어'
     },
