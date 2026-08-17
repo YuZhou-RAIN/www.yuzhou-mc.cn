@@ -90,7 +90,7 @@ const i18nData = {
     },
     error: { load: 'Failed to Load' },
     loading: { alt: 'YuZhou Minecraft Loading' },
-    banner: { deprecation: 'yuzhou-mc.cn will be deprecated in July 2027, this website's content is no longer updated, please use yzmc.top!', link: '-> Click to Jump <-' },
+    banner: { deprecation: 'yuzhou-mc.cn will be deprecated in July 2027, this website content is no longer updated, please use yzmc.top!', link: '-> Click to Jump <-' },
     lang: {
       auto: 'Follow System', zh: 'Chinese', en: 'English', ja: 'Japanese', ko: 'Korean'
     },
